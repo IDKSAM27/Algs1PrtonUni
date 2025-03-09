@@ -18,3 +18,4 @@ public class RandomWord {
             StdOut.println(champ);
     }
 }
+
